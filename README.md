@@ -1,11 +1,11 @@
 Admin :  
-Username = admin@gmail.com  
-Password = admin  
+Username  = admin@gmail.com  
+Password  = admin  
   
 Pengajar :  
-Username = maryati@gmail.com  
-NIP      = 001  
-Password = 001  
+Username  = maryati@gmail.com  
+NIP        = 001  
+Password  = 001  
   
 Santri 1 :  
 Nama     = Maia Santika  
