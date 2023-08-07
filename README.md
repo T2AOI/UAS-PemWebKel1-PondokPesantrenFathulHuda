@@ -1,18 +1,14 @@
 Admin :  
-Username  = admin@gmail.com  
-Password  = admin  
+| Username | Password |
+| admin@gmail.com | admin |
   
 Pengajar :  
-Username  = maryati@gmail.com  
-NIP        = 001  
-Password  = 001  
-  
-Santri 1 :  
-Nama     = Maia Santika  
-NIP      = 001  
-Password = 001  
-  
-Santri 2 :  
-| Nama      | NIP | Password |
+| Nama      | NIS | Password |
 |-----------|-----|----------|
+| maryati@gmail.com | 001 | 001 | 
+  
+Santri  :  
+| Nama      | NIS | Password |
+|-----------|-----|----------|
+| Maia Santika | 001 | 001 |
 | Ricko Syahputra | 002 | 002 |
