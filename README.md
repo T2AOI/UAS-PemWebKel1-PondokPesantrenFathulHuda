@@ -13,6 +13,6 @@ NIP      = 001
 Password = 001  
   
 Santri 2 :  
-Nama     = Ricko Syahputra  
-NIP      = 002  
-Password = 002  
+| Nama      | NIP | Password |
+|-----------|-----|----------|
+| Ricko Syahputra | 002 | 002 |
