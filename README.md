@@ -4,15 +4,15 @@ Password	= admin
 
 Pengajar :
 Username	= maryati@gmail.com
-NIP		= 001
+NIP		    = 001
 Password	= 001
 
 Santri 1 :
-Nama		= Maia Santika
-NIP		= 001
+Nama		  = Maia Santika
+NIP		    = 001
 Password	= 001
 
 Santri 2 :
-Nama		= Ricko Syahputra
-NIP		= 002
+Nama		  = Ricko Syahputra
+NIP		    = 002
 Password	= 002
